@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **Java, Python, SQL e Android Studio**
 
-- 📫 Você me encontra através do e-mail **reidosgames147@hotmail.com.com**
+- 📫 Você me encontra através do e-mail **reidosgames147@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
