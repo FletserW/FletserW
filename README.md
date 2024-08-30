@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou FletserW</h1>
 <h3 align="center">Um desenvolvedor back-end apaixonado</h3>
 
-- 🔭Atualmente trabalhando no TCC [Gestão de Estoque](https://github.com/FletserW/ProjectTcc_2.0)
+- 🔭Atualmente trabalhando no ...
 
-- 🌱 Atualmente estou aprendendo **Java mobile e Python**
+- 🌱 Atualmente estou aprendendo **Java, mobile e Python**
 
 - 💬 Me pergunte sobre **Java, Python, SQL e Android Studio**
 
