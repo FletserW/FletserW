@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou FletserW</h1>
 <h3 align="center">Um desenvolvedor back-end apaixonado</h3>
 
-- 🔭Atualmente trabalhando no ...
+- 🔭Atualmente trabalhando num <a href="[https://linkedin.com/in/nicolas-silva147](https://github.com/FletserW/StorageFlet)" target="blank">site de gestão</a> com spring framework e react
 
-- 🌱 Atualmente estou aprendendo **Java, mobile e Python**
+- 🌱 Atualmente estou aprendendo **SpringBoot, React e mobile**
 
 - 💬 Me pergunte sobre **Java, Python, SQL e Android Studio**
 
