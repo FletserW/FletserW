@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 🔭Atualmente trabalhando num site de gestão com spring framework e react<br><br>- 🌱 Atualmente estou aprendendo **SpringBoot, React e mobile**<br><br>- 💬 Me pergunte sobre **Java, Python, SQL e Android Studio**</p>
+<p align="left">- 🔭Atualmente trabalhando em uma rede social inspirada no instagram com spring framework e react native<br><br>- 🌱 Atualmente estou aprendendo **SpringBoot, React e mobile**<br><br>- 💬 Me pergunte sobre **Java, Python, SQL e Android Studio**</p>
 
 ###
 
